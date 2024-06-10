@@ -1,5 +1,7 @@
 <?php
 
+use Butschster\Head\Facades\Meta;
+
 return [
 
     /*
